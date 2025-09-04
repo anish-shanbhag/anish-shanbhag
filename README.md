@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🎓 I'm currently an undergrad at UC Berkeley studying EECS 
-- 💬 I love full-stack development, distributed systems, and building software that brings people together!
+- ⚡ I'm currently building optimized LLM inference systems @ NVIDIA
+- 💬 I love designing efficient, large-scale distributed systems
 - 💻 Learn more about my projects at https://anishshanbhag.com
